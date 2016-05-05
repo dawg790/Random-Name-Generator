@@ -4,7 +4,7 @@ This is a simple app that generates a random name from a list of girl names pull
 
 ## Code Example
 
-'''javascript
+```javascript
 function keepName() {
 	// Creates new name to keep entry
 	var keepNameEntry = document.createElement('p');
@@ -28,7 +28,7 @@ function keepName() {
 		keepNameHolder.appendChild(keepNameEntry);
 	}
 }
-'''
+```
 
 ## Motivation
 
