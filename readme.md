@@ -37,3 +37,8 @@ In a fit of indecision and inability to find a good name for our second girl, I 
 ## Installation
 
 Simply open the .html file in any browser or mobile device.
+
+## TODO
+
+1: Remove all Global variables
+2: Convert to an MV* framework for the app, such as Knockout
